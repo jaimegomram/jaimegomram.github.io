@@ -95,6 +95,7 @@ plugins:
     - jemoji
     - jekyll-include-cache
     - jekyll-paginate
+    - jekyll-include-cache
 
 # Jekyll-Scholar
 scholar:
